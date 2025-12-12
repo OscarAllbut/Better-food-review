@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\Visual Studio 2022\\SPECIAL PROJECTS\\Better-food-review\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25D954AA-EDFC-478C-BD39-5DCA0E2A2BFB}|FOODREVIEWGOOD\\FOODREVIEWGOOD.csproj|m:\\visual studio 2022\\special projects\\better-food-review\\foodreviewgood\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D954AA-EDFC-478C-BD39-5DCA0E2A2BFB}|FOODREVIEWGOOD\\FOODREVIEWGOOD.csproj|solutionrelative:foodreviewgood\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D954AA-EDFC-478C-BD39-5DCA0E2A2BFB}|FOODREVIEWGOOD\\FOODREVIEWGOOD.csproj|M:\\Visual Studio 2022\\SPECIAL PROJECTS\\Better-food-review\\foodreviewgood\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25D954AA-EDFC-478C-BD39-5DCA0E2A2BFB}|FOODREVIEWGOOD\\FOODREVIEWGOOD.csproj|solutionrelative:foodreviewgood\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "M:\\Visual Studio 2022\\SPECIAL PROJECTS\\Better-food-review\\FOODREVIEWGOOD\\Form1.cs",
+              "RelativeDocumentMoniker": "FOODREVIEWGOOD\\Form1.cs",
+              "ToolTip": "M:\\Visual Studio 2022\\SPECIAL PROJECTS\\Better-food-review\\FOODREVIEWGOOD\\Form1.cs",
+              "RelativeToolTip": "FOODREVIEWGOOD\\Form1.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwEUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T08:57:40.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "M:\\Visual Studio 2022\\SPECIAL PROJECTS\\Better-food-review\\FOODREVIEWGOOD\\Form1.cs",
+              "RelativeDocumentMoniker": "FOODREVIEWGOOD\\Form1.cs",
+              "ToolTip": "M:\\Visual Studio 2022\\SPECIAL PROJECTS\\Better-food-review\\FOODREVIEWGOOD\\Form1.cs [Design]",
+              "RelativeToolTip": "FOODREVIEWGOOD\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T08:56:17.139Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

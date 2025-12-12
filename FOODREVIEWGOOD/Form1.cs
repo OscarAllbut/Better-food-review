@@ -14,7 +14,7 @@ namespace FOODREVIEWGOOD
 {
     public partial class Form1 : Form
     {
-        private const string CONNECT = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"M:\\Visual Studio 2022\\FOODREVIEWGOOD\\FoodReviewsDatabase.mdf\";Integrated Security=True;Connect Timeout=30";
+        private const string CONNECT = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"M:\\Visual Studio 2022\\SPECIAL PROJECTS\\Better-food-review\\FoodReviewsDatabase.mdf\";Integrated Security=True;Connect Timeout=30";
         private SqlConnection sqlConnection;
         private bool LoggedIn;
         private string Username;
@@ -45,7 +45,7 @@ namespace FOODREVIEWGOOD
         }
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            BackgroundPicture.Load("https://thumbs.dreamstime.com/b/balanced-diet-food-background-balanced-diet-food-background-organic-food-healthy-nutrition-superfoods-meat-fish-legumes-nuts-121937194.jpg");
         }
 
         private void LoginButton_Click(object sender, EventArgs e)
@@ -84,15 +84,35 @@ namespace FOODREVIEWGOOD
                 PasswordTextBox.Hide();
                 SignUpButton.Hide();
                 LoginButton.Hide();
-                //LOGIN FAIL LABLE
+                LoginFailLabel.Hide();
+                checkedListBoxTags.Show();
+                BackgroundPicture.Show();
+                ReviewLabel.Show();
+                ReviewTextBox.Show();
+                PostReviewButton.Show();
+                ResterauntListBox.Show();
+                StarRatingButton.Show();
+                string[] StarRating = new string[5] { "☆", "☆", "☆", "☆", "☆" };
+                string VisualStarRating = "";
+                
+                for (int n = 0; n < 5; n++)     //begin by putting in empty stars
+                {
+                    VisualStarRating = VisualStarRating + StarRating[n];
+                }
+                StarRatingButton.Text = VisualStarRating;
+
             }
 
             else
             {
-                //SHOW LOGIN FAIL LABLE
+                LoginFailLabel.Show();
             }
         }
 
+        private void StarRatingButton_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 
 
