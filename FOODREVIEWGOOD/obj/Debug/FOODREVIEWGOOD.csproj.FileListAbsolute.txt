@@ -26,3 +26,16 @@ M:\SPECIAL PROJECTS\Better-food-review\FOODREVIEWGOOD\obj\Debug\FOODREVIEWGOOD.c
 M:\SPECIAL PROJECTS\Better-food-review\FOODREVIEWGOOD\obj\Debug\FOODREVI.A58957E6.Up2Date
 M:\SPECIAL PROJECTS\Better-food-review\FOODREVIEWGOOD\obj\Debug\FOODREVIEWGOOD.exe
 M:\SPECIAL PROJECTS\Better-food-review\FOODREVIEWGOOD\obj\Debug\FOODREVIEWGOOD.pdb
+M:\Visual Studio 2022\SPECIAL PROJECTS\Better-food-review\FOODREVIEWGOOD\bin\Debug\FOODREVIEWGOOD.exe.config
+M:\Visual Studio 2022\SPECIAL PROJECTS\Better-food-review\FOODREVIEWGOOD\bin\Debug\FOODREVIEWGOOD.exe
+M:\Visual Studio 2022\SPECIAL PROJECTS\Better-food-review\FOODREVIEWGOOD\bin\Debug\FOODREVIEWGOOD.pdb
+M:\Visual Studio 2022\SPECIAL PROJECTS\Better-food-review\FOODREVIEWGOOD\bin\Debug\System.Data.SqlClient.dll
+M:\Visual Studio 2022\SPECIAL PROJECTS\Better-food-review\FOODREVIEWGOOD\bin\Debug\System.Data.SqlClient.xml
+M:\Visual Studio 2022\SPECIAL PROJECTS\Better-food-review\FOODREVIEWGOOD\obj\Debug\FOODREVIEWGOOD.csproj.AssemblyReference.cache
+M:\Visual Studio 2022\SPECIAL PROJECTS\Better-food-review\FOODREVIEWGOOD\obj\Debug\FOODREVIEWGOOD.Form1.resources
+M:\Visual Studio 2022\SPECIAL PROJECTS\Better-food-review\FOODREVIEWGOOD\obj\Debug\FOODREVIEWGOOD.Properties.Resources.resources
+M:\Visual Studio 2022\SPECIAL PROJECTS\Better-food-review\FOODREVIEWGOOD\obj\Debug\FOODREVIEWGOOD.csproj.GenerateResource.cache
+M:\Visual Studio 2022\SPECIAL PROJECTS\Better-food-review\FOODREVIEWGOOD\obj\Debug\FOODREVIEWGOOD.csproj.CoreCompileInputs.cache
+M:\Visual Studio 2022\SPECIAL PROJECTS\Better-food-review\FOODREVIEWGOOD\obj\Debug\FOODREVI.A58957E6.Up2Date
+M:\Visual Studio 2022\SPECIAL PROJECTS\Better-food-review\FOODREVIEWGOOD\obj\Debug\FOODREVIEWGOOD.exe
+M:\Visual Studio 2022\SPECIAL PROJECTS\Better-food-review\FOODREVIEWGOOD\obj\Debug\FOODREVIEWGOOD.pdb

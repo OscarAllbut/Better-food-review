@@ -222,7 +222,7 @@
             this.StarRatingButton.TabIndex = 15;
             this.StarRatingButton.Text = "placeholder";
             this.StarRatingButton.UseVisualStyleBackColor = false;
-            this.StarRatingButton.Click += new System.EventHandler(this.StarRatingButton_Click);
+            this.StarRatingButton.Click += new System.EventHandler(this.StarRatingButton_Click_1);
             // 
             // Form1
             // 

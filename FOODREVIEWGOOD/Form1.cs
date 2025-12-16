@@ -18,7 +18,8 @@ namespace FOODREVIEWGOOD
         private SqlConnection sqlConnection;
         private bool LoggedIn;
         private string Username;
-        private string Placeholde2;
+        private int StarCount = 0;
+        string[] StarRating = new string[5] { "☆", "☆", "☆", "☆", "☆" };
 
         public Form1()
         {
@@ -26,7 +27,7 @@ namespace FOODREVIEWGOOD
             sqlConnection = new SqlConnection(CONNECT);
             GetTags();
         }
-        
+
         private void GetTags()
         {
             sqlConnection.Open();
@@ -92,9 +93,9 @@ namespace FOODREVIEWGOOD
                 PostReviewButton.Show();
                 ResterauntListBox.Show();
                 StarRatingButton.Show();
-                string[] StarRating = new string[5] { "☆", "☆", "☆", "☆", "☆" };
+
                 string VisualStarRating = "";
-                
+
                 for (int n = 0; n < 5; n++)     //begin by putting in empty stars
                 {
                     VisualStarRating = VisualStarRating + StarRating[n];
@@ -106,15 +107,33 @@ namespace FOODREVIEWGOOD
             else
             {
                 LoginFailLabel.Show();
+
+
             }
         }
-
-        private void StarRatingButton_Click(object sender, EventArgs e)
+        private void StarRatingButton_Click_1(object sender, EventArgs e)
         {
-
+            if (StarCount < 5)
+            {
+                StarCount++;
+            }
+            else
+            {
+                StarCount = 0;
+                //StarRating = { "☆", "☆", "☆", "☆", "☆" };
+            }
+            
         }
+
+
+            
+
+
+
+
+
+        
+
+
     }
-
-
-    
 }
