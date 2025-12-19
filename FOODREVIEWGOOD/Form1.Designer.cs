@@ -44,6 +44,7 @@
             this.PostReviewButton = new System.Windows.Forms.Button();
             this.ResterauntListBox = new System.Windows.Forms.ListBox();
             this.StarRatingButton = new System.Windows.Forms.Button();
+            this.LeaveAReviewLabel = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.BackgroundPicture)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.FailBackground)).BeginInit();
             this.SuspendLayout();
@@ -216,13 +217,25 @@
             this.StarRatingButton.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
             this.StarRatingButton.Font = new System.Drawing.Font("MS UI Gothic", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.StarRatingButton.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.StarRatingButton.Location = new System.Drawing.Point(555, 605);
+            this.StarRatingButton.Location = new System.Drawing.Point(824, 623);
             this.StarRatingButton.Name = "StarRatingButton";
-            this.StarRatingButton.Size = new System.Drawing.Size(484, 59);
+            this.StarRatingButton.Size = new System.Drawing.Size(233, 48);
             this.StarRatingButton.TabIndex = 15;
-            this.StarRatingButton.Text = "placeholder";
+            this.StarRatingButton.Text = "☆☆☆☆☆";
             this.StarRatingButton.UseVisualStyleBackColor = false;
             this.StarRatingButton.Click += new System.EventHandler(this.StarRatingButton_Click_1);
+            // 
+            // LeaveAReviewLabel
+            // 
+            this.LeaveAReviewLabel.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
+            this.LeaveAReviewLabel.Font = new System.Drawing.Font("MS UI Gothic", 12F, System.Drawing.FontStyle.Bold);
+            this.LeaveAReviewLabel.Location = new System.Drawing.Point(784, 585);
+            this.LeaveAReviewLabel.Name = "LeaveAReviewLabel";
+            this.LeaveAReviewLabel.Size = new System.Drawing.Size(272, 35);
+            this.LeaveAReviewLabel.TabIndex = 16;
+            this.LeaveAReviewLabel.Text = "You must leave a rating:";
+            this.LeaveAReviewLabel.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.LeaveAReviewLabel.Visible = false;
             // 
             // Form1
             // 
@@ -230,6 +243,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.OliveDrab;
             this.ClientSize = new System.Drawing.Size(1095, 702);
+            this.Controls.Add(this.LeaveAReviewLabel);
             this.Controls.Add(this.StarRatingButton);
             this.Controls.Add(this.ResterauntListBox);
             this.Controls.Add(this.PostReviewButton);
@@ -274,6 +288,7 @@
         private System.Windows.Forms.Button PostReviewButton;
         private System.Windows.Forms.ListBox ResterauntListBox;
         private System.Windows.Forms.Button StarRatingButton;
+        private System.Windows.Forms.Label LeaveAReviewLabel;
     }
 }
 

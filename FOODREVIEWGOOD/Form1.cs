@@ -20,6 +20,7 @@ namespace FOODREVIEWGOOD
         private string Username;
         private int StarCount = 0;
         string[] StarRating = new string[5] { "☆", "☆", "☆", "☆", "☆" };
+        string VisualStarRating = "";
 
         public Form1()
         {
@@ -94,7 +95,7 @@ namespace FOODREVIEWGOOD
                 ResterauntListBox.Show();
                 StarRatingButton.Show();
 
-                string VisualStarRating = "";
+
 
                 for (int n = 0; n < 5; n++)     //begin by putting in empty stars
                 {
@@ -115,14 +116,31 @@ namespace FOODREVIEWGOOD
         {
             if (StarCount < 5)
             {
+                StarRating[StarCount] = "★";    // fill each star in 1 by 1
                 StarCount++;
             }
             else
             {
                 StarCount = 0;
-                //StarRating = { "☆", "☆", "☆", "☆", "☆" };
+                for (int n = 0; n < 5; n++)
+                {
+                    StarRating[n] = "☆"; //reset to blank stars
+                }
             }
-            
+            if (StarCount == 0)
+            {
+                LeaveAReviewLabel.Show();
+            }
+            else
+            {
+                LeaveAReviewLabel.Hide();
+            }
+                VisualStarRating = "";
+            for (int n = 0; n < 5; n++)   // putting each star into the string and displaying it on the button
+            {
+                VisualStarRating = VisualStarRating + StarRating[n];
+            }
+            StarRatingButton.Text = VisualStarRating;
         }
 
 
