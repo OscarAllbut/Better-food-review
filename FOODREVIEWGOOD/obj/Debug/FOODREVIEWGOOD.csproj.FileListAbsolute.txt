@@ -40,3 +40,17 @@ M:\Visual Studio 2022\SPECIAL PROJECTS\Better-food-review\FOODREVIEWGOOD\obj\Deb
 M:\Visual Studio 2022\SPECIAL PROJECTS\Better-food-review\FOODREVIEWGOOD\obj\Debug\FOODREVIEWGOOD.exe
 M:\Visual Studio 2022\SPECIAL PROJECTS\Better-food-review\FOODREVIEWGOOD\obj\Debug\FOODREVIEWGOOD.pdb
 M:\Visual Studio 2022\SPECIAL PROJECTS\Better-food-review\FOODREVIEWGOOD\obj\Debug\FOODREVIEWGOOD.exe.config
+C:\Users\oscar\Documents\GitHub Repos\OscarAllbut\Better-food-review\FOODREVIEWGOOD\bin\Debug\FOODREVIEWGOOD.exe.config
+C:\Users\oscar\Documents\GitHub Repos\OscarAllbut\Better-food-review\FOODREVIEWGOOD\bin\Debug\FOODREVIEWGOOD.exe
+C:\Users\oscar\Documents\GitHub Repos\OscarAllbut\Better-food-review\FOODREVIEWGOOD\bin\Debug\FOODREVIEWGOOD.pdb
+C:\Users\oscar\Documents\GitHub Repos\OscarAllbut\Better-food-review\FOODREVIEWGOOD\bin\Debug\System.Data.SqlClient.dll
+C:\Users\oscar\Documents\GitHub Repos\OscarAllbut\Better-food-review\FOODREVIEWGOOD\bin\Debug\System.Data.SqlClient.xml
+C:\Users\oscar\Documents\GitHub Repos\OscarAllbut\Better-food-review\FOODREVIEWGOOD\obj\Debug\FOODREVIEWGOOD.csproj.AssemblyReference.cache
+C:\Users\oscar\Documents\GitHub Repos\OscarAllbut\Better-food-review\FOODREVIEWGOOD\obj\Debug\FOODREVIEWGOOD.exe.config
+C:\Users\oscar\Documents\GitHub Repos\OscarAllbut\Better-food-review\FOODREVIEWGOOD\obj\Debug\FOODREVIEWGOOD.Form1.resources
+C:\Users\oscar\Documents\GitHub Repos\OscarAllbut\Better-food-review\FOODREVIEWGOOD\obj\Debug\FOODREVIEWGOOD.Properties.Resources.resources
+C:\Users\oscar\Documents\GitHub Repos\OscarAllbut\Better-food-review\FOODREVIEWGOOD\obj\Debug\FOODREVIEWGOOD.csproj.GenerateResource.cache
+C:\Users\oscar\Documents\GitHub Repos\OscarAllbut\Better-food-review\FOODREVIEWGOOD\obj\Debug\FOODREVIEWGOOD.csproj.CoreCompileInputs.cache
+C:\Users\oscar\Documents\GitHub Repos\OscarAllbut\Better-food-review\FOODREVIEWGOOD\obj\Debug\FOODREVI.A58957E6.Up2Date
+C:\Users\oscar\Documents\GitHub Repos\OscarAllbut\Better-food-review\FOODREVIEWGOOD\obj\Debug\FOODREVIEWGOOD.exe
+C:\Users\oscar\Documents\GitHub Repos\OscarAllbut\Better-food-review\FOODREVIEWGOOD\obj\Debug\FOODREVIEWGOOD.pdb
